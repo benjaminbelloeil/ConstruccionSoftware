@@ -1,4 +1,4 @@
-# Install node_modules before getting started
+# Install modules before getting started
 
 In order to do npm start you have to install the following dependecies by doing the following:
 
