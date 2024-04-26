@@ -1,3 +1,9 @@
+# Install node_modules before getting started
+
+In order to do npm start you have to install the following dependecies by doing the following:
+
+### `npm i`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
